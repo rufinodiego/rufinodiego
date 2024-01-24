@@ -1,7 +1,10 @@
 -Diego César
--18 anos
--Estudando Análise e Desenvolvimento de Sistemas com foco em front end dev web
--Unifavip Wyden Student
+-19 anos
+-ADS Unifavip
+-Foco em desenvolvimento back end
+-Tecnologias estudando no momento:
+    -Python básico
+    
 
   
 
